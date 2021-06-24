@@ -16,7 +16,7 @@ This project was assigned to us by course instructor Ma'am Noor Saqib as our AI 
 ## Dataset 
 We used this dataset 
 
-[Student Grade Prediction Dataset] (https://www.kaggle.com/dipam7/student-grade-prediction) by Dipam Vasani and [UCI Machine Learning Repository] (https://archive.ics.uci.edu/ml/datasets/student+performance)
+[Student Grade Prediction Dataset](https://www.kaggle.com/dipam7/student-grade-prediction) by Dipam Vasani and [UCI Machine Learning Repository\(https://archive.ics.uci.edu/ml/datasets/student+performance)
 
 ## Result
 
