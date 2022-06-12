@@ -11,7 +11,7 @@
 [Syed Hurrar Hassan Rizvi](https://github.com/HurrarHasan)
 
 ## AI LAB Project 
-This project was assigned to us by course instructor Ma'am Noor Saqib as our AI LAB project. In this project, we had to different machine learning models ,like Linear Regression, Lasso Regression, Ridge Regression, Decision Tree Classifier, Random Forest Tree Regression, and Random Forest Tree Classifier, to find the influence of various factors in student's performance.
+This project was assigned to us by course instructor Ma'am Noor Saqib as our AI LAB project.In this project, we had to find the influence of various factors on student performance. We used Python various libraries like Pandas, Seaborn, Matplotlib, and Numpy. We test different machine learning models: Linear Regression, Lasso Regression, Ridge Regression, Decision Tree Classifier, Random Forest Tree Regression, and Random Forest Tree Classifier.
 
 ## Dataset 
 We used this dataset 
