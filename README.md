@@ -1,31 +1,43 @@
-# Student_Mark_Prediction
+# 📊 Student Performance Prediction using Machine learning
+This project, developed for our AI Lab, investigates the influence of various demographic and social factors on student academic performance. We engineered and compared multiple regression and classification models to predict final grades, providing insights into the key drivers of student success.
 
-## Authors
+## 🤝 The Team
+- Hirdesh Kumar
+- Malik Rafaquat
+- Muhammad Usama
+- Syed Hurrar Hassan Rizvi
 
-[Hirdesh Kumar](https://github.com/hirdeshkumar2407)
+## 🎯 Project Overview & Goal
+The primary goal was to move beyond simple correlation and build predictive models to identify which factors are most influential on a student's final academic performance. We utilized a comprehensive dataset from the UCI Machine Learning Repository to train, test, and validate our findings.
 
-[Malik Rafaquat](https://github.com/Rafaquatmalik)
+## 🛠️ Methodology & Technologies
+### 1. Data Processing & EDA:
+- The dataset was cleaned and preprocessed using Python, with core libraries such as Pandas and NumPy.
+- Conducted thorough Exploratory Data Analysis (EDA) using Matplotlib and Seaborn to visualize relationships and identify key features.
 
-[Muhammad Usama](https://github.com/Usama-Faisal)
+### 2. Model Engineering & Evaluation:
+- We implemented and rigorously tested a suite of six different machine learning models to compare their predictive accuracy:
+- Regression Models: Linear, Lasso, and Ridge Regression.
+- Classification Models: Decision Tree and Random Forest Classifier.
+- Ensemble Model: Random Forest Regression.
 
-[Syed Hurrar Hassan Rizvi](https://github.com/HurrarHasan)
+### 3. Key Technologies:
+- Language: Python
+- Libraries: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- Environment: Jupyter Notebook
 
-## AI LAB Project 
-This project was assigned to us by course instructor Ma'am Noor Saqib as our AI LAB project.In this project, we had to find the influence of various factors on student performance. We used Python various libraries like Pandas, Seaborn, Matplotlib, and Numpy. We test different machine learning models: Linear Regression, Lasso Regression, Ridge Regression, Decision Tree Classifier, Random Forest Tree Regression, and Random Forest Tree Classifier.
+## 📊 Results & Key Findings
+Our model comparison yielded significant results, with ensemble methods demonstrating the highest predictive power. The Random Forest Regression model emerged as the top performer, achieving an accuracy of 87.0%.
 
-## Dataset 
-We used this dataset 
+### Model	Accuracy Score:
+- Random Forest Regression	87.0%
+- Random Forest Classifier	86.0%
+- Lasso Regression	85.2%
+- Linear Regression	84.0%
+- Ridge Regression	82.4%
+- Decision Tree Classifier	70.0%
 
-[Student Grade Prediction Dataset](https://www.kaggle.com/dipam7/student-grade-prediction) by Dipam Vasani and [UCI Machine Learning Repository\(https://archive.ics.uci.edu/ml/datasets/student+performance)
-
-## Result
+This analysis confirms that complex, non-linear relationships exist in the data, and that ensemble models are best suited for this type of predictive task.
 
 
-| Model        | Accuracy         
-| ------------- |:-------------:| 
-| Linear Regression| 84.0% | 
-| Lasso Regression | 85.2% |    
-| Ridge Regression | 82.4% |
-| Decision Tree Classifier | 70.0% |
-| Random Forest Regression | 87.0% |
-| Random Forest Classifier | 86.0% |
+
